@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Generador de Textos con RNN
 
 You can use the [editor on GitHub](https://github.com/ErickLF/Generador-Textos-RNN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
