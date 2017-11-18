@@ -38,7 +38,7 @@ Algunos nombres de municipios que me ha generado son:
 * Reyes de Reforma
 * La Magdalena Cardenas
 * San Juan Cuautitan
----
+* La Pedro Loro Corolo Corta
 
 ## Resultados con el libro de la Biblia
 Al usar toda la biblia nos ha generado parrafos como:
